@@ -2,7 +2,7 @@
 
 ### Period
 
-Every month
+Every month, publish at mid of month.
 
 ### Platform
 
