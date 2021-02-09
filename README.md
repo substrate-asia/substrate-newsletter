@@ -8,7 +8,7 @@ Every month, publish at mid of month.
 
 - Wechat Public Account, owner: 1 block
 - Zhihu channel, owner: @Kaichao Sun
-- Email (tinyletter, substack, TBD), owner: @Jimmy Chu ?
+- Email (tinyletter, substack, TBD)
 
 ### Workflow
 
@@ -29,3 +29,10 @@ Github: [substrate-newsletter](https://github.com/ParityAsia/substrate-newslette
 * 文档和资料
 * 技术生态和社区
 * 跨链协议
+
+### Archived newsletter
+
+[2020-10](./archive/2020_10.md)
+[2020-11](./archive/2020_11.md)
+[2020-12](./archive/2020_12.md)
+[2021-01](./archive/2020_01.md)
