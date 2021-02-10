@@ -32,7 +32,8 @@ Github: [substrate-newsletter](https://github.com/ParityAsia/substrate-newslette
 
 ### Archived newsletter
 
-[2020-10](./archive/2020_10.md)
-[2020-11](./archive/2020_11.md)
-[2020-12](./archive/2020_12.md)
-[2021-01](./archive/2020_01.md)
+- [2020-10](./archive/2020_10.md)
+- [2020-11](./archive/2020_11.md)
+- [2020-12](./archive/2020_12.md)
+- [2021-01](./archive/2020_01.md)
+- [2021-02](./archive/2020_02.md)
