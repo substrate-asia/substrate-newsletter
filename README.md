@@ -22,6 +22,13 @@ Github: [substrate-newsletter](https://github.com/ParityAsia/substrate-newslette
 2. After the release date (the second Saturday), move the file in the archive folder. And create a new file for next newsletter.
 3. Publish the latest newsletter in the archive folder for different platforms.
 
+### News and Channels
+
+- Codes: [Substrate](https://github.com/paritytech/substrate), [Polkadot](https://github.com/paritytech/polkadot), [w3f org](https://github.com/w3f/), [DevHub](https://github.com/substrate-developer-hub/), [xcm-format](https://github.com/paritytech/xcm-format/)
+- Twitter: [parity](https://twitter.com/ParityTech), [w3f](https://twitter.com/web3foundation)
+- Blogs: [Polkadot](https://medium.com/polkadot-network), [parity](https://www.parity.io/blog/)
+- Videos: [seminar](https://www.crowdcast.io/e/substrate-seminar/), [youtube](https://www.youtube.com/channel/UCSs5vZi0U7qHLkUjF3QnaWg)
+
 ### Content structure
 
 * 重要提交和发布
