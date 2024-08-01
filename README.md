@@ -84,3 +84,4 @@ Github: [substrate-newsletter](https://github.com/ParityAsia/substrate-newslette
 - [2024-04](./archive/2024_04.md)
 - [2024-05](./archive/2024_05.md)
 - [2024-06](./archive/2024_06.md)
+- [2024-07](./archive/2024_07.md)
